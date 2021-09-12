@@ -1,0 +1,6 @@
+obj/
+UpgradeLog*.htm
+.vs/
+bin/
+*.user
+obj/

@@ -1,20 +1,25 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventCommandExample", "EventCommandExample\EventCommandExample.csproj", "{DF06545E-97F3-4D2D-AB66-BFC31F47E7AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x86 = Debug|x86
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DF06545E-97F3-4D2D-AB66-BFC31F47E7AC}.Debug|x86.ActiveCfg = Debug|x86
-		{DF06545E-97F3-4D2D-AB66-BFC31F47E7AC}.Debug|x86.Build.0 = Debug|x86
-		{DF06545E-97F3-4D2D-AB66-BFC31F47E7AC}.Release|x86.ActiveCfg = Release|x86
-		{DF06545E-97F3-4D2D-AB66-BFC31F47E7AC}.Release|x86.Build.0 = Release|x86
+		{DF06545E-97F3-4D2D-AB66-BFC31F47E7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF06545E-97F3-4D2D-AB66-BFC31F47E7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF06545E-97F3-4D2D-AB66-BFC31F47E7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF06545E-97F3-4D2D-AB66-BFC31F47E7AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DDEEB37-2FCA-467F-9F83-A3FC9DB5FF47}
 	EndGlobalSection
 EndGlobal
